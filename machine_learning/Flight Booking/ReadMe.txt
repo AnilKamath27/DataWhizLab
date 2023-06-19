@@ -13,7 +13,6 @@ By working on this project, you will:
 5. Gain insights into factors affecting flight prices and their predictive power.
 
 
-Get ready to dive into the fascinating world of Flight Booking Price Prediction. Embrace the learning journey, embrace the challenges, and let's work together to excel 
-in the field of data science!
+Get ready to dive into the fascinating world of Flight Booking Price Prediction. Embrace the learning journey, embrace the challenges, and let's work together to excel in the field of data science!
 
 Happy analyzing!
