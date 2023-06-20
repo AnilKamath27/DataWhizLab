@@ -1,7 +1,0 @@
-cd C:\Users\hp\Desktop\datawhizlab
-
-git add machine_learning/"Heart Disease Prediction"/*
-
-git commit --allow-empty-message -m ""
-
-git push origin main
